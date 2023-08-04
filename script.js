@@ -97,7 +97,7 @@ const list3 = [
     "Exercising",
     "Flying",
     "Studying",
-    "Building"
+    "Building",
 ];
 
 const nameElement = document.getElementById('name');
